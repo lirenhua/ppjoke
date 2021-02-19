@@ -1,0 +1,6 @@
+include ':libnavCompiler'
+include ':libnavnotation'
+include ':libcommon'
+include ':libnetwork'
+include ':app'
+rootProject.name = "ppjoke"
